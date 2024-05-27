@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1a550171c18a144be85aee12017d69, type: 3}
+  m_Name: Audio Manager File
+  m_EditorClassIdentifier: 
+  clipName:
+  - Free Game Soundtrack by cactusdude - (hurry up)
+  audioClip:
+  - {fileID: 8300000, guid: f686d19254b784b44a64391571277294, type: 3}
+  soundPrefab: {fileID: 0}
+  isPopulated: 1
+  directory:
+  - 
